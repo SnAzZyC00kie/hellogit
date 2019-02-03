@@ -37,7 +37,7 @@ int main(void)
      
      // Comparing the contents of a strings
      
-     if(str1 == "keep")
+     if(str1 == "keep ")
        {
          //Assigning more content to a string 
          str2+= ",son";
