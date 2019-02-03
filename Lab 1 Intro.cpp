@@ -28,10 +28,11 @@ int main(void)
      {
      cout << v1[i] << "\t"; 
      }
+    cout << endl;
     
     // Printing the contents of str1 and str2
      cout << "str1 = " << str1 << endl;
-     cout << " The 3rd character is " << str1[2] << "\n";
+     cout << "The 3rd character is " << str1[2] << "\n";
      cout << "str2 has " << str2.size() << " characters" << endl;
      
      // Comparing the contents of a strings
@@ -39,7 +40,7 @@ int main(void)
      if(str1 == "keep")
        {
          //Assigning more content to a string 
-         str1+= ",Sir";
+         str2+= ",Sir";
          cout << str1 << endl;
        }
        
