@@ -41,7 +41,7 @@ int main(void)
        {
          //Assigning more content to a string 
          str2+= ",Sir";
-         cout << str1 << endl;
+         cout << str2 << endl;
        }
        
       if(str2 != "going")
