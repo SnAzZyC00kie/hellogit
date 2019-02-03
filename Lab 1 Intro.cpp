@@ -8,7 +8,7 @@ int main(void)
 {
   vector<char> v; // An empty vector accepting characters
   vector<int>v1= {100,56,90,32,6}; // A vector containing integers
-  string str1 = "keep"; // A string containing a set of characters
+  string str1 = "keep "; // A string containing a set of characters
   string str2 = str1 + "going"; //A string containing another string plus a set of characters
   
   // Manipulating Vectors to push and pop data
